@@ -1,8 +1,8 @@
 # Token Radar
 
-[![token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
-[![token-radar-01 rank](https://make.fun/badge/token-radar-01/Kamprett92/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01)
-[![token-radar-01 reward](https://make.fun/badge/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Kamprett92/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Kamprett92/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 A token-launch radar for the make.fun `token-radar-01` bounty: it reads a sealed snapshot of
 758 DeFi protocols (DefiLlama protocol index, 2026-11-14), ranks every pre-token protocol by a
@@ -75,3 +75,7 @@ directories are byte-identical.
 - `vendor/makefun-board.ts` — the kit's dossier library, byte for byte
 - `DESIGN.md` — the design notes behind the model
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t1yg6scf&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
